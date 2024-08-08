@@ -1,6 +1,6 @@
-let num = 42;
-let firstName = 'Maksym';
-const isProgrammer = true;
+// let num = 42;
+// let firstName = 'Maksym';
+// const isProgrammer = true;
 
 /* Can do
 let $ = 'test'
